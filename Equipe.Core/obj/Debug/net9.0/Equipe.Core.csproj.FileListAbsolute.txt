@@ -1,0 +1,15 @@
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Core/obj/Debug/net9.0/Equipe.Core.csproj.AssemblyReference.cache
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Core/obj/Debug/net9.0/Equipe.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Core/obj/Debug/net9.0/Equipe.Core.AssemblyInfoInputs.cache
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Core/obj/Debug/net9.0/Equipe.Core.AssemblyInfo.cs
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Core/obj/Debug/net9.0/Equipe.Core.csproj.CoreCompileInputs.cache
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Core/bin/Debug/net9.0/Equipe.Core.deps.json
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Core/bin/Debug/net9.0/Equipe.Core.dll
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Core/bin/Debug/net9.0/Equipe.Core.pdb
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Core/bin/Debug/net9.0/Equipe.Infrastructure.dll
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Core/bin/Debug/net9.0/Equipe.Infrastructure.pdb
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Core/obj/Debug/net9.0/Equipe.C.E2B3068E.Up2Date
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Core/obj/Debug/net9.0/Equipe.Core.dll
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Core/obj/Debug/net9.0/refint/Equipe.Core.dll
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Core/obj/Debug/net9.0/Equipe.Core.pdb
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Core/obj/Debug/net9.0/ref/Equipe.Core.dll

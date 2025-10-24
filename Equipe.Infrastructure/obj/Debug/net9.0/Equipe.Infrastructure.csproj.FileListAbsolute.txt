@@ -1,0 +1,14 @@
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Infrastructure/bin/Debug/net9.0/Equipe.Infrastructure.deps.json
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Infrastructure/bin/Debug/net9.0/Equipe.Infrastructure.runtimeconfig.json
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Infrastructure/bin/Debug/net9.0/Equipe.Infrastructure.dll
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Infrastructure/bin/Debug/net9.0/Equipe.Infrastructure.pdb
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Infrastructure/obj/Debug/net9.0/Equipe.Infrastructure.csproj.AssemblyReference.cache
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Infrastructure/obj/Debug/net9.0/Equipe.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Infrastructure/obj/Debug/net9.0/Equipe.Infrastructure.AssemblyInfoInputs.cache
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Infrastructure/obj/Debug/net9.0/Equipe.Infrastructure.AssemblyInfo.cs
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Infrastructure/obj/Debug/net9.0/Equipe.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Infrastructure/obj/Debug/net9.0/Equipe.Infrastructure.dll
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Infrastructure/obj/Debug/net9.0/refint/Equipe.Infrastructure.dll
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Infrastructure/obj/Debug/net9.0/Equipe.Infrastructure.pdb
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Infrastructure/obj/Debug/net9.0/Equipe.Infrastructure.genruntimeconfig.cache
+/Users/douglascobiank/ProChamp/Backend/Equipe/Equipe.Infrastructure/obj/Debug/net9.0/ref/Equipe.Infrastructure.dll
